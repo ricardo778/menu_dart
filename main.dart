@@ -15,7 +15,7 @@ void main() {
   final String codigo = "3145939";
   final String correo = "av164702@example.com";
   final String fechaNacimiento = "14/10/25";
-  final String lugarNacimiento = "Colombia";
+  final String lugarNacimiento = "Venezuela";
   final String autoevaluacion = "3.5";
 
   List<String> menu = [
